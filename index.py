@@ -1,3 +1,5 @@
+from ctypes.wintypes import CHAR
+from re import S
 import requests
 #import os
 from datetime import datetime
